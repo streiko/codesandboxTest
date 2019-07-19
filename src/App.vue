@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img width="25%" src="./assets/logo.png">
-    <HelloWorld msg="Ich sag einfach Hello again, again and again" />
+    <HelloWorld msg="Ich sag einfach Hello again, again, again and again" />
   </div>
 </template>
 
